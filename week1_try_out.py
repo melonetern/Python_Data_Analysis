@@ -1,5 +1,6 @@
 #     Wiederholung Python Basis
-
+# frequently used modules
+# numpy,scipy, pandas, matplotlib.pyplot
 
 print 'hello Python!'
 
