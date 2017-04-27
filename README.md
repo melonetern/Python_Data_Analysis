@@ -5,7 +5,7 @@ Step2: basic data analysis with Python
 Step3: Machine Learning with Python
 
 frequently applied modules:
-+matplotlib
++matplotlib.pyplot
 +numpy
 +pandas
 +scipy
@@ -15,3 +15,8 @@ Very basic of Python, data type, loops, ect.
 
 week 2:
 some modules: math, random
+
+week 3:
+getting started with numpy
+  np.array([],[]...)
+
