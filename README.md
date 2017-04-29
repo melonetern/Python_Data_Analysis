@@ -20,3 +20,5 @@ week 3:
 getting started with numpy
   np.array([],[]...)
 
+pandas_Series&DataFrame:
+introdution of Series and DataFrame
